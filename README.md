@@ -13,8 +13,8 @@ and evidence that an unfamiliar reviewer can inspect.
 
 A local-first agent memory and tool runtime with provenance, abstention,
 review-gated feedback, typed MCP boundaries, and isolated deployment controls;
-the public release passes 503 automated tests and exposes its threat
-model, limitations, and verification record.
+the public release passes 471 automated tests plus a dedicated privacy-surface
+gate and exposes its threat model, limitations, and verification record.
 
 ### [HSLViewer](https://github.com/Dalconzo/HSLViewer)
 
