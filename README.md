@@ -13,9 +13,10 @@ and evidence that an unfamiliar reviewer can inspect.
 
 A local-first agent memory and tool runtime with provenance, abstention,
 review-gated feedback, typed MCP boundaries, and isolated deployment controls;
-the [v0.1.0a1 alpha](https://github.com/Dalconzo/MiniLLM/releases/tag/v0.1.0a1)
-records 718/718 full tests, 287/287 security-focused tests, 75.02% branch
-coverage, and 28/28 governed retrieval gates in a commit-bound evidence bundle.
+the [v0.2.0a1 alpha](https://github.com/Dalconzo/MiniLLM/releases/tag/v0.2.0a1)
+records 735 passing tests on each Linux matrix job, 302 passing
+security-focused tests, 75.02% branch coverage, and 28/28 governed retrieval
+gates, with platform-specific skips stated in the release notes.
 
 ### [HSLViewer](https://github.com/Dalconzo/HSLViewer)
 
